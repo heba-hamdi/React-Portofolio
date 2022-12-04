@@ -97,6 +97,11 @@
         gap: 1rem;
     }
 
+    .about__cards{
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem   ;
+    }
+
     .about__content{
         text-align: center;
     }
